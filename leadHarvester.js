@@ -6,7 +6,7 @@ const fs = require("fs");
 // Configuration & Constants
 
 // Replace 'YOUR_YELP_API_KEY' with your actual Yelp API Key.
-const API_KEY = "IWRoHxAjRNDT8HbcNi3aHxcgRQDn8iV6ZhG3WxYrlslW-kzy5jLgIf2_jN64-Bo7IsaVIlNP-l0HAg3SV4dA1qUOdBNShvFsZO94PVgZNF0o1jNpCVOn3OWPEnOyZ3Yx";
+const API_KEY = "YOUR_YELP_API_KEY";
 // Yelp API base URL for business search.
 const BASE_URL = "https://api.yelp.com/v3/businesses/search";
 // HTTP headers including the API Key for authentication.
